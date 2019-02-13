@@ -1,5 +1,5 @@
-id,name,team,salary
-1,Mike,Team A,3000
+id,name,team
+1,Mike,Team A
 3,Jack,Team A
-4,Rosely,Team C,2000
+4,Rose,Team C
 5,Peter,Team B
