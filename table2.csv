@@ -1,5 +1,5 @@
-id,name,tel,age
-1,Mike,12345,20
-2,Phil,,30
+id,name,tel,age,salary
+1,Mike,12345,20,2000
+2,Phil,,30,4000
 4,Roseii,88665544,
 5,Peter,54321,19
